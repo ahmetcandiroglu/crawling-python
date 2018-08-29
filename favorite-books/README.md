@@ -1,7 +1,7 @@
 # Favorite Books
 This scraper gets your favorite from one site and sets as favorite in another site for you.
 
-* Login to your [kitapyurdu](www.kitapyurdu.com) and [kidega](www.kidega.com) accounts
+* Login to your [kitapyurdu](https://www.kitapyurdu.com) and [kidega](https://www.kidega.com) accounts
 
 * Get all favorite books and save them in [favorite_books.txt](favorite_books.txt)
 

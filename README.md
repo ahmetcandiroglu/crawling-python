@@ -13,7 +13,7 @@ Libraries used for web scraping and manipulation:
 
 ### [Favorite Books](/favorite-books)
 
-* Login to your [kitapyurdu.com](www.kitapyurdu.com) and [kidega.com](www.kidega.com) (online book stores) accounts
+* Login to your [kitapyurdu.com](https://www.kitapyurdu.com) and [kidega.com](https://www.kidega.com) (online book stores) accounts
 
 * Get your favorite books and save them
 
