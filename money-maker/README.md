@@ -1,5 +1,5 @@
 # Money Maker
-This little bot has some dollars and wants to more dollars by trading USD for TRY and vice versa.
+This little bot has some dollars and wants to earn more dollars by trading USD for TRY and vice versa.
 
 * Get buy/sell rate of USD/TRY currency in desired bank
 
