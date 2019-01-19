@@ -7,7 +7,7 @@ Libraries used for web scraping and manipulation:
 
 * [Requests](https://github.com/requests/requests/)
 
-* [BeatifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 * [RoboBrowser](https://github.com/jmcarp/robobrowser)
 
